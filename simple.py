@@ -1,0 +1,12 @@
+print('This is python statement')
+print ('The sum 0f 3 and 12 = ' , 3 + 12)
+x,y,z = 10,12,15
+print('x = '+ str(x))
+print ('y = '+str(y))
+print ('z = '+ str(z))
+##print ('Please enter your 4 digits pin number ')
+##pin = input()
+##print ('Your pin = ',pin)
+##print ('Pin Type = ',type(pin))
+pin = int(input('Enter your 4 digits pin: '))
+print ('Your pin ',pin)
