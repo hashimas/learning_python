@@ -6,4 +6,3 @@ def fibonacci(n):
 n = int(input('Enter the size: '))
 """ Docs """
 fibonacci(n)
-fibonacci
