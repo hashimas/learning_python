@@ -1,0 +1,13 @@
+stack = [1,2,3,4,5,6]
+print(stack)
+stack.append(7)
+stack.append(8)
+stack.append(9)
+stack.append(10)
+print(stack)
+print(stack.pop())
+print(stack)
+print(stack.pop())
+print(stack.pop())
+print(stack.pop())
+print(stack)
